@@ -1,5 +1,5 @@
 exports.menu = (prefix, i) => {
-    return `*INI WM AQULZZ*
+    return `*REYYXPLOIT*
 `
 }
 
@@ -46,15 +46,15 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├────────────────────
 ╞═══ 《 *THANKS TO* 》 ═══
 ├────────────────────
-├≽ *Xinz-Team*
+├≽ *SakaBiru77Team*
 ├≽ *Aqulzz*
-├≽ *Nafizz*
-├≽ *Y-DhyZx*
-├≽ *Ramlan ID*
+├≽ *RitzwanDev*
+├≽ *FajarSK77*
+├≽ *NishSK77*
 ├≽ *X-MrG3P5*
-├≽ *Alan Botz*
-├≽ *Juwen*
-├≽ *Adiwajshing/Baileys*
+├≽ *ReyyXploit*
+├≽ *DarkSadboyUnknow*
+├≽ *AdiPandawaSK77*
 ╘═══ 《 *By ${ownerName}* 》 ═══`
 }
 
